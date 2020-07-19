@@ -1,0 +1,18 @@
+h1{
+    color:red;
+}
+
+.Header{
+    background-color:lightgreen;
+    display:flex;
+    justify-content: space-between;
+}
+.links{
+    display:flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+}
+
+p{
+    text-align: center;
+}
