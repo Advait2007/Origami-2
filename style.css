@@ -2,15 +2,43 @@ h1{
     color:red;
 }
 
-.Header{
+.camel{
     background-color:lightgreen;
     display:flex;
     justify-content: space-between;
 }
-.links{
+.panda{
+    background-color:lightgreen;
     display:flex;
-    flex-direction: row;
-    justify-content: space-evenly;
+    justify-content: space-between;
+}
+
+.pigeon{
+    background-color:lightgreen;
+    display:flex;
+    justify-content: space-between;
+}
+
+.cicada{
+    background-color:lightgreen;
+    display:flex;
+    justify-content: space-between;
+}
+
+.links1{
+    border: solid;
+}
+
+.links2{
+    border: solid;
+}
+
+.links3{
+    border: solid;
+}
+
+.links4{
+    border: solid;
 }
 
 p{
